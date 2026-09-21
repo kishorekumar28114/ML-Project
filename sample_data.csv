@@ -1,0 +1,51 @@
+Gender,Parental_Education,Lunch,Test_Preparation_Course,Weekly_Study_Hours,Absences,Grade
+Female,Bachelor's Degree,Standard,Completed,18,2,88
+Male,High School,Free/Reduced,None,10,6,65
+Female,Master's Degree,Standard,Completed,22,1,94
+Male,Associate's Degree,Standard,None,14,4,72
+Female,Some College,Free/Reduced,None,8,8,58
+Male,Bachelor's Degree,Standard,Completed,16,3,84
+Female,High School,Standard,None,12,5,70
+Male,Some High School,Free/Reduced,None,6,10,50
+Female,Associate's Degree,Standard,Completed,20,2,91
+Male,Master's Degree,Standard,Completed,25,0,98
+Female,Some College,Standard,None,15,4,76
+Male,High School,Free/Reduced,Completed,11,5,69
+Female,Bachelor's Degree,Standard,Completed,19,1,89
+Male,Some College,Free/Reduced,None,9,7,62
+Female,High School,Free/Reduced,None,7,9,55
+Male,Associate's Degree,Standard,Completed,17,3,82
+Female,Master's Degree,Standard,None,16,2,83
+Male,Some High School,Standard,None,10,6,64
+Female,Some College,Standard,Completed,18,3,86
+Male,Bachelor's Degree,Free/Reduced,None,12,6,68
+Female,High School,Standard,Completed,14,4,75
+Male,Associate's Degree,Free/Reduced,None,8,8,59
+Female,Bachelor's Degree,Standard,Completed,21,1,92
+Male,Master's Degree,Free/Reduced,Completed,20,2,87
+Female,Some High School,Free/Reduced,None,5,11,48
+Male,Some College,Standard,Completed,17,2,81
+Female,Associate's Degree,Standard,None,13,5,73
+Male,High School,Standard,None,11,7,66
+Female,Master's Degree,Standard,Completed,24,0,96
+Male,Bachelor's Degree,Standard,None,15,4,77
+Female,Some College,Free/Reduced,Completed,12,6,71
+Male,Some High School,Free/Reduced,None,7,9,53
+Female,High School,Standard,None,10,6,67
+Male,Associate's Degree,Standard,Completed,18,2,85
+Female,Bachelor's Degree,Free/Reduced,Completed,16,4,79
+Male,Master's Degree,Standard,None,19,3,86
+Female,Some College,Standard,Completed,20,1,90
+Male,Some High School,Standard,Completed,13,5,72
+Female,High School,Free/Reduced,None,6,10,52
+Male,Bachelor's Degree,Standard,Completed,22,1,93
+Female,Associate's Degree,Free/Reduced,Completed,15,4,78
+Male,Some College,Standard,None,12,6,69
+Female,Master's Degree,Standard,Completed,23,0,95
+Male,High School,Standard,Completed,14,3,76
+Female,Some High School,Free/Reduced,None,4,12,45
+Male,Associate's Degree,Free/Reduced,None,9,8,61
+Female,Bachelor's Degree,Standard,None,17,3,82
+Male,Some College,Free/Reduced,Completed,13,5,70
+Female,High School,Standard,Completed,15,3,79
+Male,Master's Degree,Standard,Completed,26,0,99
